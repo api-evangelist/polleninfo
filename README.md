@@ -64,23 +64,73 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Polleninfo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Polleninfo is a cooperative European community of health science providers, maintained by the Austrian Pollen Information Service. It aggregates and disseminates pollen and allergy-related data across Europe, offering open data resources for researchers, healthcare professionals, and the public. The platform aims to improve public health awareness and support scientific studies on pollen trends and allergy impacts.
 
-**Areas:** Company
+**Areas:** Company · Health · Allergy · Data · Europe
 
 ## Polleninfo on APIs.io
 
 Everything profiled for Polleninfo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/polleninfo/](https://apis.io/providers/polleninfo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Polleninfo Domain Security](https://apis.io/security/polleninfo/polleninfo-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://polleninformation.eu/)
+- [GitHub](https://github.com/polleninfo-org)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/polleninfo/](https://apis.io/providers/polleninfo/).
+**Kin Score 4.4** — minimal · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/polleninfo/](https://apis.io/providers/polleninfo/).
 
 ## How this profile is made
 
